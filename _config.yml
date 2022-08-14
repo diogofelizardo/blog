@@ -21,7 +21,7 @@ highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "t
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : "/blog" # does not include hostname
 production_url : http://diogofelizardo.github.io.com/blog
-BASE_PATH : http://diogofelizardo.com/blog
+BASE_PATH : http://diogofelizardo.github.io.com/blog
 title   : Your Site Title
 description: > # this means to ignore newlines until "Language & timezone"
   Your Site Description
